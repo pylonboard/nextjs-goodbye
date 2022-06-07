@@ -56,6 +56,11 @@
   font-size: 1.5rem;
 }
 
+.description a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
 .code {
   background: #fafafa;
   border-radius: 5px;
@@ -104,7 +109,7 @@
 }
 
 .logo {
-  height: 1em;
+  /*height: 1em;*/
   margin-left: 0.5rem;
 }
 
