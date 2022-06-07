@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          This is not the end, this is a new beginning. See more at <a href="https://sapient.fi" target={"_blank"} rel={"noopener noreferrer"}>Sapient FI</a>
+          This is not the end - it is a new beginning. See more at <a href="https://sapient.fi" target={"_blank"} rel={"noopener noreferrer"}>Sapient FI</a>
         </p>
       </main>
     </div>
